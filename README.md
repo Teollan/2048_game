@@ -1,4 +1,25 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048
+
+---
+
+### Description
+A recreation of a famous mobile game, written in under 2 days. All interactivity is handled through DOM events without any JavaScript framework to better understand the basics of the Web. 
+
+---
+
+### Controls
+Use arrow keys to play.
+Use `F6` to enter debug mode.
+
+---
+
+### Utilized Technologies
+ - JavaScript
+ - DOM
+ - HTML
+ - CSS (SCSS)
+
+---
+
+### Demo
+[DEMO LINK](https://Teollan.github.io/2048_game/)
